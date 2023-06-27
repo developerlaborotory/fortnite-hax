@@ -23,6 +23,7 @@ class FortniteCheat:
                 break
             except:
                 time.sleep(1)
+                print("Waiting for Fortnite...")
  
     def aimbot(self):
         while self.aimbot_enabled:
